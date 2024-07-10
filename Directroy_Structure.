@@ -1,0 +1,16 @@
+tenant_screening_agent/
+│
+├── agent/
+│   ├── __init__.py
+│   ├── landlord_agent.py
+│   ├── tenant_matcher.py
+│   ├── background_check_service.py
+│   ├── tenant_profile.py
+│   └── property.py
+│
+├── examples/
+│   └── example_usage.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
